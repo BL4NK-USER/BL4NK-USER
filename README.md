@@ -18,6 +18,7 @@ Create, Test, Improve, and Innovate
 
 ## Programming Languages
 
+<img src="https://skillicons.dev/icons?i=python,html,mysql,git,github&perline=12"/>
 
 ## Featured Projects
 
