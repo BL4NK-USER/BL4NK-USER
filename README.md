@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### Researcher . Software Engineer . Game Developer 
+### Researcher • Software Engineer • Game Developer 
 
 Create, Test, Improve, and Innovate
   
@@ -10,11 +10,10 @@ Create, Test, Improve, and Innovate
 
 ## About Me
 
-- Backend Developer
-- Software Developer
-- Layout Artist
-- CS Student
-- Digital Artist
+- 🚪 Backend Developer
+- 💻 Software Developer
+- 🧑‍💻 CS Student
+- 🖼️ Digital Artist
 
 ## Programming Languages
 
