@@ -22,9 +22,8 @@ Create, Test, Improve, and Innovate
 
 ## Featured Projects
 
--Cozy cup cafe
--Game Development
-
+- Cozy cup cafe
+- Game Development
 
 ## Frameworks
 
@@ -32,10 +31,10 @@ Currently Learning Bootstrap and Flask.
 
 ## Dev Tools
 
--Git
--GitHub
--MySQL workbench
--Visual Studio
+- Git
+- GitHub
+- MySQL workbench
+- Visual Studio
 
 <div align="Center">
 
