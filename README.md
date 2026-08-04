@@ -2,12 +2,19 @@
 
 # Hi there 👋
 
-### CS Student . Researcher . Software Engineer . Game Developer 
+### Researcher . Software Engineer . Game Developer 
 
 Create, Test, Improve, and Innovate
   
 </div>
 
+## About Me
+
+- Backend Developer
+- Software Developer
+- Layout Artist
+- CS Student
+- Digital Artist
 
 <!--
 **BL4NK-USER/BL4NK-USER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
