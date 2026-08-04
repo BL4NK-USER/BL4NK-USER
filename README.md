@@ -21,6 +21,7 @@ Create, Test, Improve, and Innovate
 
 ## Featured Projects
 
+<img src="C:\Users\Radzmar\OneDrive\Pictures\2b03be81-8fcb-488d-9d34-2fa6693d40f6.jpg"/>
 - Cozy cup cafe
 - Game Development
 
