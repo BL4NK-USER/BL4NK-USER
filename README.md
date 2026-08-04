@@ -1,10 +1,10 @@
-<div>
+<div align="Center">
 
 # Hi there 👋
 
 ### CS Student . Researcher . Software Engineer . Game Developer 
 
-Create, Improve, and Innovate
+Create, Test, Improve, and Innovate
   
 </div>
 
