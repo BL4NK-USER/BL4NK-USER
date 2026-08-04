@@ -1,4 +1,13 @@
-## Hi there 👋
+<div>
+
+# Hi there 👋
+
+### CS Student . Researcher . Software Engineer . Game Developer 
+
+Create, Improve, and Innovate
+  
+</div>
+
 
 <!--
 **BL4NK-USER/BL4NK-USER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
