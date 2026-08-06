@@ -48,5 +48,5 @@ Currently Learning Bootstrap and Flask.
   <img src="https://img.shields.io/badge/GitH-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="sql">
-  <img src="https://img.shields.io/badge/VisualStudio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
