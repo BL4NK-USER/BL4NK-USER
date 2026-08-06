@@ -7,12 +7,10 @@
 </div>
 
 <div align="Center">
+  
 ## About Me
 
-- 🚪 Backend Developer
-- 💻 Software Developer
-- 🧑‍💻 CS Student
-- 🖼️ Digital Artist
+
 
 </div>
 
