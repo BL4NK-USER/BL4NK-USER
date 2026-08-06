@@ -16,9 +16,11 @@
   
 ## About Me
 
-<p> Hello, I am Radzmar D. Hajon, a CS student aspiring to be a great programmer. <br>
-My hobbies are listening to music, reading manga, watching tv shows, and mostly playing video games. <br>
-Even when the future is uncertain I keep moving forward.
+<p> 
+  Hello, I am Radzmar D. Hajon, a Computer Science student aspiring to be a great programmer. <br>
+  Still inexperiece in some skills but I will do my best to 
+  My hobbies are listening to music, reading manga, watching tv shows, and mostly playing video games. <br>
+  <i>Even when the future is uncertain I keep moving forward.</i>
 </p>
 
 </div>
