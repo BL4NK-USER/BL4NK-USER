@@ -16,7 +16,9 @@
   
 ## About Me
 
-
+<p> Hello, I am Radzmar D. Hajon, a CS student aspiring to be a great programmer.
+My hobbies are listening to music, reading manga, watching tv shows, and mostly playing video games.
+Even when the future is uncertain I keep moving forward.</p>
 
 </div>
 
