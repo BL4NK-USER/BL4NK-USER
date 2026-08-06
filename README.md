@@ -39,6 +39,10 @@
   <a href="https://github.com/BL4NK-USER/cozycup-cafe-boilerplate" alt="Cafe">
     <img src="https://img.shields.io/badge/☕%20-Cozy%20Cup%20Cafe-0D6EFD?style=for-the-badge&labelColor=084298"/>
   </a>
+  <a href="https://github.com/AkiiSauceCode/FlatGamer-" alt="Game">
+    <img src="https://img.shields.io/badge/👾%20-Create%20a%20game-0D6EFD?style=for-the-badge&labelColor=084298"/>
+  </a>
+    <img src="https://img.shields.io/badge/🧮%20-First%20Calculator-0D6EFD?style=for-the-badge&labelColor=084298"/>
 </p>
 
 ## Frameworks
