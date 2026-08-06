@@ -35,9 +35,11 @@
 
 ## Featured Projects
 
-<img src="https://img.shields.io/badge/🌐%208-Web%20Information%20Systems-0D6EFD?style=for-the-badge&labelColor=084298"/>
-- Cozy cup cafe
-- Game Development
+<p>
+  <a href="https://github.com/BL4NK-USER/cozycup-cafe-boilerplate" alt="Cafe">
+    <img src="https://img.shields.io/badge/☕%208-Cozy%20Cup%20Cafe-0D6EFD?style=for-the-badge&labelColor=084298"/>
+  </a>
+</p>
 
 ## Frameworks
 
