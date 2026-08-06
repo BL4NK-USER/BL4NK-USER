@@ -18,7 +18,7 @@
 
 <p> 
   Hello, I am Radzmar D. Hajon, a Computer Science student aspiring to be a great programmer. <br>
-  Still inexperiece in some skills but I will do my best to improve my skills and grow as a better version of myself<br>
+  Still inexperiece in some skills but I will do my best to improve my skills and grow as a better version of myself.<br>
   My hobbies are listening to music, reading manga, watching tv shows, and mostly playing video games. <br>
   
   <i>"Even when the future is uncertain I will keep moving forward."</i>
@@ -35,6 +35,7 @@
 
 ## Featured Projects
 
+<img src="https://img.shields.io/badge/🌐%208-Web%20Information%20Systems-0D6EFD?style=for-the-badge&labelColor=084298"/>
 - Cozy cup cafe
 - Game Development
 
