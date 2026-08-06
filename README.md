@@ -2,18 +2,19 @@
 
 # Hi there 👋
 
-### Researcher • Software Engineer • Game Developer 
-
-Create, Test, Improve, and Innovate
+### Create, Test, Improve, and Innovate
   
 </div>
 
+<div align="Center">
 ## About Me
 
 - 🚪 Backend Developer
 - 💻 Software Developer
 - 🧑‍💻 CS Student
 - 🖼️ Digital Artist
+
+</div>
 
 ## Programming Languages
 
@@ -35,8 +36,3 @@ Currently Learning Bootstrap and Flask.
 - MySQL workbench
 - Visual Studio
 
-<div align="Center">
-
-"Still a Beginner"
-  
-</div>
