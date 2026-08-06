@@ -1,6 +1,6 @@
 <div align="Center">
 
-<img src="https://support.heberjahiz.com/hc/article_attachments/21013076295570" alt="404" width="300">
+<img src="https://support.heberjahiz.com/hc/article_attachments/21013076295570" alt="404" width="500">
 
 </div>
 
